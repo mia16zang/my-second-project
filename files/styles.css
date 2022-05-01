@@ -1,6 +1,9 @@
 /* Add your styles here */
 
 body {
-    background-color: rgb(17, 0, 255);
-    .padding 10px;
+    background-color: rgb(11, 173, 11);
+    padding 10px;
+    font-size: 100px; 
+    border: solid;
+
 }
